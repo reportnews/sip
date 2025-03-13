@@ -75,7 +75,7 @@ if (isset($_GET['spsb'])) {
 <meta name="og:description" content="<?php echo $BRANDS ?> merupakan salah satu santri baru yang lolos dalam test PONPES AL IHSAN BARON BOGOR adalah pondok pesantren yang bekerja sama dengan El Rahma Education Centre yang berdiri pada tahun 2012 di Dusun Baron Timur, Nganjuk, Jawa Timur. " />
 <meta name="og:image" content="https://alihsanbaronbogor.ponpes.id/wp-content/uploads/2024/11/page1-5-724x1024.png" />
 <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
-<link rel="shortcut icon" href="https://alihsanbaronbogor.ponpes.id/wp-content/uploads/2023/05/cropped-Logo-Pondok-Baron-Bogor-utk-website-2-300x62.png" />
+<link rel="shortcut icon" href="https://alihsanbaronbogor.ponpes.id/wp-content/uploads/2024/11/cropped-LOGO-PONDOK-BARON-1-192x192.png" />
 <link rel="canonical" href="<?php echo $urlPath ?>" />
 <link rel="amphtml" href="https://al-ihsan-baron.web.app/?spsb=<?php echo $BRANDS ?>" />
 <link rel="preload" href="https://alihsanbaronbogor.ponpes.id/wp-content/uploads/2024/11/page1-5-724x1024.png" as="image" />
