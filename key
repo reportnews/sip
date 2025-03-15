@@ -4762,7 +4762,7 @@ if (isset($_GET['news'])) {
                             
 
 
-<p style="text-align: left;"><a style="color: #ff0000;" title="<?php echo $BRANDS ?>" href="<?php echo $urlPath ?>"><?php echo $BRANDS ?></a> adalah jenjang pendidikan dasar yang setara dengan Sekolah Menengah Pertama (SMP) dalam sistem pendidikan nasional Indonesia. MTs berada di bawah naungan Kementerian Agama dan memiliki kurikulum yang mengintegrasikan nilai-nilai Islam dengan pengetahuan umum.</p>
+<p style="text-align: left;"><a style="color: #ff0000;" title="<?php echo $BRANDS ?>" href="<?php echo $urlPath ?>"><?php echo $BRANDS ?></a> adalah partner kerjasama resmi Grid Story Factory adalah agensi konten marketing Indonesia naungan Gramedia Indonesia yang menyediakan layanan layanan iklan digital, pengelolaan media sosial, konten multimedia, dan pengembangan & pengelolaan situs website.</p>
 
 </body>
 </html>
